@@ -1,0 +1,10 @@
+npm install @emotion/styled
+npm install @emotion/react
+npm install @mui/material
+npm install @mui/icons-material
+npm install @material-ui/core
+
+npm install react-native-web
+
+npm install react-router-native
+npm install react-router-dom
