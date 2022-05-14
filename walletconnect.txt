@@ -1,0 +1,4 @@
+yarn add @walletconnect/web3-provider
+npm install --save web3-provider
+npm install --save web3modal
+npm install --save walletlink
